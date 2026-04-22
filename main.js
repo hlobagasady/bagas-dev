@@ -6,7 +6,7 @@ const portfolioData = [
         category: 'Business System',
         url: null,
         github: null,
-        image: null,
+        image: 'foto/portfolios/penilaian.jpeg',
     },
     {
         title: 'POS & Financial System',
@@ -15,7 +15,7 @@ const portfolioData = [
         category: 'Business System',
         url: null,
         github: null,
-        image: null,
+        image: 'foto/portfolios/payment.png',
     },
     {
         title: 'Boarding House Landing Page',
@@ -24,7 +24,7 @@ const portfolioData = [
         category: 'Web Project',
         url: null,
         github: null,
-        image: null,
+        image: 'foto/portfolios/kost.png',
     },
     {
         title: 'Coffee Shop Promotional Website',
@@ -33,7 +33,7 @@ const portfolioData = [
         category: 'Web Project',
         url: null,
         github: null,
-        image: null,
+        image: 'foto/portfolios/coffeeshop.png',
     },
     {
         title: 'Learning Management System (LMS)',
@@ -42,7 +42,7 @@ const portfolioData = [
         category: 'Business System',
         url: null,
         github: null,
-        image: null,
+        image: 'foto/portfolios/academy.png',
     },
     {
         title: 'E-Commerce Platform',
@@ -51,7 +51,7 @@ const portfolioData = [
         category: 'Web Project',
         url: null,
         github: null,
-        image: null,
+        image: 'foto/portfolios/ecommerce.jpg',
     },
     {
         title: 'Corporate Website – PT Traspac Makmur Sejahtera',
@@ -60,7 +60,7 @@ const portfolioData = [
         category: 'Corporate Site',
         url: null,
         github: null,
-        image: null,
+        image: 'foto/portfolios/webprofile.png',
     },
 ];
 
