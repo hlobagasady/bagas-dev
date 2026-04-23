@@ -11,7 +11,7 @@ const portfolioData = [
     {
         title: 'POS & Financial System',
         desc: 'A business transaction and financial management system built to support sales recording, reporting, and operational control.',
-        tags: ['PHP', 'CodeIgniter', 'MySQL'],
+        tags: ['PHP', 'Laravel', 'MySQL'],
         category: 'Business System',
         url: null,
         github: null,
@@ -20,7 +20,7 @@ const portfolioData = [
     {
         title: 'Boarding House Landing Page',
         desc: 'A responsive landing page created to promote rental property listings and increase customer inquiries.',
-        tags: ['WordPress', 'HTML', 'CSS'],
+        tags: ['HTML', 'JavaScript', 'CSS'],
         category: 'Web Project',
         url: null,
         github: null,
@@ -29,7 +29,7 @@ const portfolioData = [
     {
         title: 'Coffee Shop Promotional Website',
         desc: 'A modern branding website built to showcase products, location, and customer engagement for a coffee business.',
-        tags: ['WordPress', 'JavaScript', 'CSS'],
+        tags: ['HTML', 'JavaScript', 'CSS'],
         category: 'Web Project',
         url: null,
         github: null,
@@ -38,7 +38,7 @@ const portfolioData = [
     {
         title: 'Learning Management System (LMS)',
         desc: 'A digital learning platform for managing courses, attendance, assignments, and user progress tracking.',
-        tags: ['PHP', 'Laravel', 'MySQL'],
+        tags: ['WordPress', 'PHP', 'MySQL'],
         category: 'Business System',
         url: null,
         github: null,
@@ -56,7 +56,7 @@ const portfolioData = [
     {
         title: 'Corporate Website – PT Traspac Makmur Sejahtera',
         desc: 'A company profile website developed to strengthen digital branding and present business information professionally.',
-        tags: ['WordPress', 'HTML', 'CSS'],
+        tags: ['HTML', 'CSS', 'JavaScript'],
         category: 'Corporate Site',
         url: null,
         github: null,
